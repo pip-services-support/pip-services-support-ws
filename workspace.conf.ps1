@@ -7,4 +7,6 @@ $VersionControlRepos = @(
 
 	"https://github.com/pip-services-support/pip-services-feedbacks-node.git"
 	"https://github.com/pip-services-support/pip-clients-feedbacks-node.git"
+
+	"https://github.com/pip-services-support/pip-facade-support-node.git"
 )

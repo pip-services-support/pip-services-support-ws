@@ -10,6 +10,7 @@ The workspace enables build, test, and release across the following projects:
 - **pip-clients-announcements-node** - Client to Announcements microservice in Node.js
 - **pip-services-announcements-node** - User feedback microservice in Node.js
 - **pip-clients-announcements-node** - Client to User feedback microservice in Node.js
+- **pip-facade-support-node** - Facade operations for support microservices in Node.js
 
 ## Installation
 
